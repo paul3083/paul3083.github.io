@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abd6ae9b.css",
+    "main.js": "/static/js/main.89903364.js",
+    "static/media/edcanchan.svg": "/static/media/edcanchan.f9e8382c60f8e35204825e6681112b09.svg",
+    "static/media/edcanlogo.svg": "/static/media/edcanlogo.e85fd6d4b46362394753eb81642722b7.svg",
+    "index.html": "/index.html",
+    "main.abd6ae9b.css.map": "/static/css/main.abd6ae9b.css.map",
+    "main.89903364.js.map": "/static/js/main.89903364.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd6ae9b.css",
+    "static/js/main.89903364.js"
+  ]
+}
